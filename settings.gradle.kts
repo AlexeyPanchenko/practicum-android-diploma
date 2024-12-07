@@ -22,3 +22,7 @@ dependencyResolutionManagement {
 includeBuild("build-logic")
 
 include(":app")
+
+///
+///asdasdas
+///asdas
